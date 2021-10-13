@@ -41,7 +41,6 @@ public class DollarCalculatorTest {
         //lenient().when(marketApi.println()).thenAnswer(invocation -> invocation.callRealMethod());
      }
 
-
      @Test
     public void dollarTest() {
 
